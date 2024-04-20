@@ -1,7 +1,9 @@
-# GDSC-hack-2024
+# AI technologies applied to financial information
+
+## GDSC-hack-2024
 Financial illiteracy affects economic stability and personal well-being, making it crucial to have inclusive, technology-driven education tools. 
 
-# The Challenge
+## The Challenge
 
 The challenge is to tackle the low level of financial literacy among people by creating a user-friendly digital tool. This tool aims to educate users on financial matters and help them make wise financial choices in everyday life, through innovative, engaging methods like generative AI, LLMs, and gamification. The main challenge consists in making financial concepts of varying complexities accessible and understandable by different users, from the youngest to the elders, thus making the proposed financial illiteracy problem as much inclusive as possible.
 
