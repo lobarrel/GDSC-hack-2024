@@ -9,10 +9,9 @@ When reaching a certain score level, some dedicated advantages are available, su
 Furthermore, a cooperation with a robo-advisor enriches the purpose of our app: given the user's consent, the partner will gain advantage from an accurate financial profiling and the Al tools provided by Brazor. On the partner's app, the user can easily start to invest and monitor the portfolio performance, with analyses and support thanks to Brazor contribution.
 By doing so, our app will effectively play a role in informing and supporting financial decisions.
 Revenues come from:
-<details>
- - Premium subscriptions 
+
+ - Premium subscriptions
  - Advertisement (for free users) 
  - Sponsorship of the main financial partner (robo-advisor) 
  - Other partners providing discounts to users 
-</details>
 Currently, no competitor is on the market with such a product.
