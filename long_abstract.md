@@ -1,4 +1,4 @@
-#description of our idea
+# description of our idea
 
 Our app aims to provide information about the main financial concepts and news, customized based on the customers specificity (such as age, education level, country, income, etc.), through Al-generated contents.
 When opening the app, the customer will see the first suggested video and can scroll to see other contents.
@@ -10,9 +10,9 @@ Furthermore, a cooperation with a robo-advisor enriches the purpose of our app: 
 By doing so, our app will effectively play a role in informing and supporting financial decisions.
 Revenues come from:
 <details>
-- Premium subscriptions
-- Advertisement (for free users)
-- Sponsorship of the main financial partner (robo-advisor)
-- Other partners providing discounts to users
+ - Premium subscriptions 
+ - Advertisement (for free users) 
+ - Sponsorship of the main financial partner (robo-advisor) 
+ - Other partners providing discounts to users 
 </details>
 Currently, no competitor is on the market with such a product.
