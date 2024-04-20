@@ -13,5 +13,6 @@ Revenues come from:
  - Premium subscriptions
  - Advertisement (for free users) 
  - Sponsorship of the main financial partner (robo-advisor) 
- - Other partners providing discounts to users 
+ - Other partners providing discounts to users
+   
 Currently, no competitor is on the market with such a product.
