@@ -1,5 +1,5 @@
 # description of our idea
-
+## technologies applied to financial information
 Our app aims to provide information about the main financial concepts and news, customized based on the customers specificity (such as age, education level, country, income, etc.), through Al-generated contents.
 When opening the app, the customer will see the first suggested video and can scroll to see other contents.
 He can also swipe right to indicate that he liked that kind of content, or left if he didn't like it very much. By selecting a button, the user will reach an insight page where more information is provided about that specific topic, through customized and Al-generated text and images.
