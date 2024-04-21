@@ -1,8 +1,0 @@
-
-Hey there! So, you know how we use a lot of paper and energy to keep track of things, like money transactions or who owns what? Well, imagine if we could do all of that without using so much paper or electricity. That's where blockchain comes in!
-
-Think of blockchain like a big digital book that keeps track of stuff, but instead of being stored in one place, it's spread out all over the internet. And every time someone wants to add something new to the book, like a transaction or a record, everyone who has a copy of the book checks it to make sure it's correct. This way, we don't need to rely on a single person or company to keep everything in order.
-
-Now, here's where the cool part comes in: because blockchain doesn't rely on a central authority to verify things, it uses a lot less energy compared to traditional systems. That's because we don't need huge buildings full of computers running all the time to keep everything secure. Instead, it's decentralized, which means it's spread out across lots of different computers all around the world.
-
-So, when we talk about the sustainability of blockchain, we're talking about using technology in a way that's better for the environment. By using less energy and resources to do the same things we've always done, blockchain helps us move towards a more eco-friendly future.
