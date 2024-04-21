@@ -3,24 +3,19 @@
 ## GDSC-hack-2024
 Financial illiteracy affects economic stability and personal well-being, making it crucial to have inclusive, technology-driven education tools. 
 
-## The Challenge
+Brazor is a mobile app providing a customized financial learning experience through Al-generated contents.
+The user is suggested with shorts videos about which he can give feedbacks swiping right or left; he can also reach Al-generated insights about the topics. Between videos, quiz-style related questions will appear, and answering correctly rewards the user with points that will result in incentives and dedicated advantages.
+To unlock unlimited insights and avoid advertisements, a premium version in available.
+A cooperation with a robo-advisor enriches the mission of Brazor's, that will provide analyses in support of financial decisions.
 
-The challenge is to tackle the low level of financial literacy among people by creating a user-friendly digital tool. This tool aims to educate users on financial matters and help them make wise financial choices in everyday life, through innovative, engaging methods like generative AI, LLMs, and gamification. The main challenge consists in making financial concepts of varying complexities accessible and understandable by different users, from the youngest to the elders, thus making the proposed financial illiteracy problem as much inclusive as possible.
 
-The tool must allow to properly tackle financial decisions with a user-tailored path from both the educational and decision-making point of view, having in mind the specific culture, age, background, needs of the user. 
+https://github.com/lobarrel/GDSC-hack-2024/assets/91025441/ac1963a9-3c97-4691-9444-8653eb2498df
 
-The financial decisions and paths can range from money savings with different objectives to more complex decisions such as investments and purchases.  Some examples of relevant features of this tool could be:
 
-- Customized path to reach savings goals
-- Decision-making assistant to make the best investments based on your financial situation, social situation, and goals
-- Learning specific financial concepts and best practices to better handle future decisions, through gamification and AI assistance.
+## Deliverables
 
-This financial tool can be designed to solve a variety of problems. It is up to you to figure out which are the greatest areas of interest and most pressing needs to address to **maximize the positive impact and adoption of such a product.**  In fact, the challenge is intentionally open to different solutions and approaches. Having a tool that proposes to solve so many problems through so many features may not be the best solution, as one has to think of something that will have to be actually used by someone. 
+[Elevator Pitch](https://www.canva.com/design/DAGC_3ntoNw/CIAw4LnkvXVNVEJQb2zhRQ/view?utm_content=DAGC_3ntoNw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-The tool may consist of, for example, an app, a web-app, or both. It is important to have a tool that maximizes inclusivity through features that are accessible by people with different backgrounds. For example, a personalized savings pathway must be easily understood and usable by both young and old.
+[Detailed Presentation](https://www.canva.com/design/DAGC-YmMMEQ/7c0PKfHcl3BPTyQ1VYHRKQ/view?utm_content=DAGC-YmMMEQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-Participants are free to choose any technology stack that suits their project needs. The only mandatory requirement is to include one or more functionalities that use Large Language Models. There are no constraints on the specific technology, whether it is a Vision LLM, an Audio LLM or a giant Multimodal LLM, the goal is to leverage it to build the most amazing product you can come up with. These can be employed to enable a wide variety of features, from a virtual assistant for effective learning to an advisory system. 
-
-The solution to the presented problem posed must not only solve aspects of financial illiteracy, but form the basis of a solid, successful product. For this reason, a winning solution is not only technically sound but also from the perspective of the business built around it and the impact it has.
-
-[more details here](https://planet-echium-3b0.notion.site/FinTech-Challenge-97187a29f3d64e90a57f623d7e7ea058)
+[Figma PoC](https://www.figma.com/file/bZ8Tb0FVapKxU7LcPcWUZt/Brazor?type=design&node-id=0-1&mode=design&t=S1cfzpEvvQxq52TK-0)
