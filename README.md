@@ -22,3 +22,5 @@ The tool may consist of, for example, an app, a web-app, or both. It is importan
 Participants are free to choose any technology stack that suits their project needs. The only mandatory requirement is to include one or more functionalities that use Large Language Models. There are no constraints on the specific technology, whether it is a Vision LLM, an Audio LLM or a giant Multimodal LLM, the goal is to leverage it to build the most amazing product you can come up with. These can be employed to enable a wide variety of features, from a virtual assistant for effective learning to an advisory system. 
 
 The solution to the presented problem posed must not only solve aspects of financial illiteracy, but form the basis of a solid, successful product. For this reason, a winning solution is not only technically sound but also from the perspective of the business built around it and the impact it has.
+
+[more details here](https://planet-echium-3b0.notion.site/FinTech-Challenge-97187a29f3d64e90a57f623d7e7ea058)
